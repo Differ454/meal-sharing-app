@@ -1,0 +1,371 @@
+.riceContent{
+  width: 97vw;
+  height: 99vw;
+  background-color: rgb(255, 255, 255);
+  margin-left:10px;
+  margin-top: 10px;
+  
+}
+
+body{
+  background-image: url("https://image.freepik.com/vector-gratis/fondo-comida-smarthphone-supermercado_125540-324.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.riceContent header h1{
+  width: auto;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+  margin-left:10px;
+  margin-top: 10px;
+  position: relative;
+  left:80mm;
+  font-size: 50px;
+  font-family:  Gabriola;
+  
+}
+
+.riceContent #left {
+  width: 20mm;
+  top:80mm;
+  height: 220mm;
+  padding-left: 60mm;
+  padding-right: 70mm;
+  padding-top:10px;
+  padding-bottom:30mm;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left:150mm;
+  margin-left:40mm;
+  margin-bottom:10px;
+  
+}
+
+.riceContent #left p{
+  position: relative;
+  margin-bottom:10mm;
+  margin-top:-20mm;
+  right:50px;
+  font-family:  Gabriola;
+}
+
+.riceContent #right ul{
+  width:24vw;
+  position: relative;
+  right:240mm;
+  bottom:30mm;
+}
+
+
+
+
+.riceContent #right li{
+  display: inline;
+  
+}
+
+.riceContent #right li a{
+  text-decoration: none;
+  margin-right:2px ;
+  position: relative;
+  top:80px;
+  right:150mm;
+  padding-left:30px;
+  background-image: url("https://image.freepik.com/vector-gratis/fondo-comida-smarthphone-supermercado_125540-324.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}  
+.riceContent #right {
+  width: 30mm;
+  height: 100px;
+  padding-left: 80mm;
+  padding-right: 50mm;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left:10mm;
+  top:58mm;
+  right:80mm;
+  margin-right:10mm;
+  margin-left:10mm;
+  margin-top: 20px;
+  padding-bottom: 40vw;
+
+  
+}
+
+.riceContent #right a {
+  font-size:30px;
+  margin-right:100px;
+  position: relative;
+  right:100px;
+  
+  
+}
+
+.riceContent #right p{
+  position: relative;
+  width: 400px;
+  height: 200px;
+  border: 4mm ridge rgba(0, 17, 255, 0.6);
+  top:30mm;
+  right:60mm;
+  box-shadow: 0 0 20px rgb(17, 0, 17);
+  border-radius: 14%;
+  font-family: Gabriola;
+  font-size: 23px;
+  font-weight: 500;
+  
+}
+
+#right .meals{
+  background-color:rgb(255, 255, 255);
+  margin-bottom: 20px;
+  width: 39vw;
+  padding-right:5px ;
+  position: relative;
+  top:10mm;
+  bottom: 20mm;
+  right: 75mm;
+  border: 2mm ridge rgb(19, 152, 230);
+  box-shadow: 0 0 20px rgb(17, 0, 17);
+  border-radius: 14%;
+}
+
+#right .meals li{
+  display: inline;
+}
+
+#right ul{
+  background-color:rgb(253, 253, 253);
+  width: 39vw;
+  position: relative;
+  left:60mm;
+ 
+}
+
+.riceContent #left p{
+    width: 200px;
+    font-size:30px;
+    position: relative;
+    right: 30mm;
+    top:40mm;
+    
+}
+
+
+
+.riceContent #left input{
+  width: 300px;
+  height: 35px;
+  margin-bottom:30px ;
+  margin-top:10px ;
+  padding-left:20px ;
+  position: relative;
+  right: 50mm;
+  top:30mm;
+  bottom:70px;
+  font-size:20px;
+  box-shadow: 0 0 20px rgb(17, 0, 17);
+  border-radius: 14%;
+}
+
+.riceContent #left label{
+ font-size:25px;
+ position: relative;
+ top:25mm;
+ right: 50mm;
+ bottom:70px;
+
+}
+
+.riceContent #left label a{
+  font-size:25px;
+  display:flex;
+  width: 240px;
+  margin-bottom: 25px;
+  
+ 
+}
+
+.riceContent #left button{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(96, 96, 104);
+    position: relative;
+    right: 50mm;
+    top:100px;
+    font-size: 20px;
+    margin-top: 30px;
+    box-shadow: 0 0 20px rgb(17, 0, 17);
+    border-radius: 14%;
+}
+
+.riceContent #left button:hover{
+  cursor:pointer;
+ 
+  }
+
+  .riceContent #left .resv h3{
+      width: 400px;
+      height: 30px;
+     border: 1px solid rgb(18, 147, 207);
+     font-size:20px;
+     padding-top: 15px;
+     margin-right: 25px;
+     margin: 10px;
+     margin-left: 20px;
+     position: relative;
+     right:20px;
+     font-size: 20px;
+     
+     
+      }
+
+      .riceContent #left .resv {
+          width: 400px;
+          height: 250px;
+       background-color:rgb(255, 255, 255);
+         font-size:20px;
+         padding-top: 15px;
+         margin-right: 25px;
+         margin: 10px;
+         margin-left: 20px;
+         position: absolute;
+         right:120px;
+         top: 900px;
+      
+        
+         
+          }
+
+          @media (min-width: 375px) and (max-width: 767px) 
+          {
+            .riceContent header h1{
+              
+              position: relative;
+              top:20px;
+              float:right;
+            }
+            .riceContent #right .meals {
+              position: relative;
+              width: 350px;
+              height: 200px;
+              border: 3mm ridge rgba(173, 7, 206, 0.6);
+              top:20mm;
+              right:60mm;
+              box-shadow: 0 0 30px rgb(17, 0, 17);
+              border-radius: 8%;
+              text-align: justify;
+           }
+
+           
+             .riceContent #right p{
+              position: relative;
+              width: 350px;
+              height: 200px;
+              border: 3mm ridge rgba(8, 229, 236, 0.6);
+              top:20mm;
+              right:60mm;
+              box-shadow: 0 0 30px rgb(17, 0, 17);
+              border-radius: 8%;
+              text-align: justify;
+  
+              }
+
+              .riceContent #left p{
+                width: 200px;
+                font-size:30px;
+                position: relative;
+                right: 70mm;
+                top:40mm;
+                background:aqua;
+                
+            }
+            
+            
+            
+            .riceContent #left input{
+              width: 300px;
+              height: 35px;
+              margin-bottom:30px ;
+              margin-top:10px ;
+              padding-left:20px ;
+              position: relative;
+              left: -100mm;
+              top:30mm;
+              bottom:70px;
+              font-size:20px;
+              box-shadow: 0 0 20px rgb(17, 0, 17);
+              border-radius: 14%;
+            }
+            
+            .riceContent #left label{
+             font-size:25px;
+             position: relative;
+             top:25mm;
+             right: 100mm;
+             bottom:70px;
+            
+            }
+            
+            .riceContent #left label a{
+              font-size:25px;
+              display:flex;
+              width: 240px;
+              margin-bottom: 25px;
+              
+             
+            }
+            
+            .riceContent #left button{
+                width: 150px;
+                height: 40px;
+                background-color: rgb(96, 96, 104);
+                position: relative;
+                right: 100mm;
+                top:100px;
+                font-size: 20px;
+                margin-top: 30px;
+                box-shadow: 0 0 20px rgb(17, 0, 17);
+                border-radius: 14%;
+            }
+            
+            .riceContent #left button:hover{
+              cursor:pointer;
+             
+              }
+            
+              .riceContent #left .resv h3{
+                  width: 400px;
+                  height: 30px;
+                 border: 1px solid rgb(18, 147, 207);
+                 font-size:20px;
+                 padding-top: 15px;
+                 margin-right: 25px;
+                 margin: 10px;
+                 margin-left: 20px;
+                 position: relative;
+                 right:250mm;
+                 bottom:60mm;
+                 font-size: 20px;
+                 
+                 
+                  }
+            
+                  .riceContent #left .resv {
+                     width: 400px;
+                     height: 250px;
+                     background-color:rgb(255, 255, 255);
+                     font-size:20px;
+                     padding-top: 15px;
+                     position: relative;
+                     left:20mm;
+                     top: 100px;
+                  }
+            
+           
+   
+           }

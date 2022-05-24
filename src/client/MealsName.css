@@ -1,0 +1,285 @@
+.content{
+
+  width: 93vw;
+  height: 85vw;
+  padding: 20px 10px 10px 20px;
+  margin: 20px 10px 20px 10px;
+  background-color:rgb(253, 253, 253);
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  
+}
+
+body{
+  background-image: url("https://image.freepik.com/vector-gratis/fondo-comida-smarthphone-supermercado_125540-324.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.content .menu li {
+  display: inline;
+  margin-left:130px;
+  height: auto;
+  position: relative;
+  right:280px;
+  font-size:35px;
+  margin-left:40px ;
+  right:190px;
+}
+
+
+
+.content h3{
+  font-size: 40px;
+  position: relative;
+  left:0px;
+  
+}
+
+.content h4{
+  font-size: 50px;
+  position: relative;
+  left:300px;
+  font-family:  Gabriola;
+}
+
+.content .menu{
+  background-color:rgb(253, 253, 253);
+  width: 28vw;
+  padding-left:10rem ;
+  padding-right:30px ;
+ 
+  
+
+  
+}
+
+.content .meals h3  {
+  background-color:rgb(253, 253, 253);
+  width: 29vw;
+  font-size: 20px;
+  margin-left:60px ;
+}
+
+.content .meals{
+  background-color:rgb(255, 255, 255);
+  margin-bottom: 20px;
+  width: 39vw;
+  padding-right:5px ;
+  position: relative;
+  top:20mm;
+  right: 40px;
+  border: 2mm ridge rgb(3, 40, 206);
+  box-shadow: 0 0 20px rgb(17, 0, 17);
+  border-radius: 14%;
+}
+
+.content ul{
+  background-color:rgb(253, 253, 253);
+  width: 39vw;
+}
+
+.content .meals li{
+  display: inline;
+}
+
+.content .menu li a {
+  text-decoration: none;
+  
+}
+
+.content #form{
+  font-size: 30px;
+  width: 43vw;
+  height: 100mm;
+  background-color:rgb(253, 253, 253);
+  position: relative;
+  left: 170mm;
+}
+
+.content .Addmeal h5{
+  background-color:rgb(253, 253, 253);
+  position: relative;
+  left:0mm;
+  width: 44vw;
+  font-size: 30px;
+  font-family:  Gabriola;
+  
+}
+
+.content .Addmeal {
+  background-color:rgb(253, 253, 253);
+  position: absolute;
+  left: 170mm;
+  width: 44vw;
+  top:100mm;
+  bottom: 20mm;
+  height: 65.5vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  }
+
+.content .Addmeal .CreateMeal{
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 44vw;
+}
+
+.content .Addmeal .CreateMeal label{
+  width: 44vw;
+  font-size: 30px;
+  }
+
+.content .Addmeal .CreateMeal input{
+  width: 300px;
+  height: 70px;
+  margin-bottom:30px ;
+  margin-top:30px ;
+  font-size: 20px;
+  padding-left:20px ;
+  box-shadow: 0 0 20px rgb(17, 0, 17);
+  }
+
+  .content .Addmeal .CreateMeal button{
+    width: 150px;
+    height: 40px;
+    margin-bottom:30px ;
+    margin-top:30px ;
+    margin-top:30px;
+    font-size: 20px;
+    padding-left:10px ;
+    background-color: rgb(96, 96, 104);
+    box-shadow: 0 0 20px rgb(17, 0, 17);
+   
+    }
+
+    .content .Addmeal .CreateMeal button:hover{
+      cursor:pointer;
+     
+      }
+
+      .content .Addmeal .CreateMeal .newMeals h3{
+        width: 180px;
+        height: 30px;
+       border: 1px solid rgb(253, 253, 253);
+       font-size:20px;
+       padding-top: 15px;
+       margin: 10px;
+       margin-left: 67mm;
+      
+       
+        }
+
+        @media (min-width: 768px) and (max-width: 1199px) 
+       {
+        .content .Addmeal {
+          background-color:rgb(253, 253, 250);
+          position: absolute;
+          left: 170mm;
+          width: 44vw;
+          top:60mm;
+          bottom: 20mm;
+          height: 65.5vw;
+          display: flex;
+          flex-direction: column;
+          justify-content: top;
+          }
+
+        }
+
+        @media (min-width: 480px) and (max-width: 767px) 
+        {
+         .content .Addmeal {
+           background-color:rgb(255, 255, 255);
+           position: absolute;
+           left: 100mm;
+           width: 44vw;
+           top:60mm;
+           bottom: 20mm;
+           height: 65.5vw;
+           display: flex;
+           flex-direction: column;
+           justify-content: top;
+           }
+
+           .content .meals{
+            background-color:rgb(253, 253, 253);
+            margin-bottom: 20px;
+            width: 39vw;
+            padding-right:5px ;
+            position: relative;
+            right: 40px;
+            border: 2mm ridge rgb(3, 40, 206);
+          }
+          .content .meals h3  {
+            background-color:rgb(255, 254, 254);
+            width: 19vw;
+            font-size: 10px;
+            margin-left:60px ;
+            
+          }
+ 
+         }
+
+         @media (max-width: 480px) 
+        {
+         .content .Addmeal {
+           background-color:rgb(253, 253, 253);
+           position: absolute;
+           left:100mm;
+           width: 44vw;
+           top:70mm;
+           bottom: 20mm;
+           height: 65.5vw;
+           display: flex;
+           flex-direction: column;
+           justify-content: top;
+           }
+           .content .meals{
+            background-color:rgb(253, 253, 253);
+            margin-bottom: 90px;
+            width: 39vw;
+            padding-right:5px ;
+            position: relative;
+            top: 90px;
+            right: 10px;
+            border: 2mm ridge rgb(3, 40, 206);
+          }
+
+          .content .meals h3  {
+            background-color:rgb(255, 255, 255);
+            width: 19vw;
+            font-size: 10px;
+            margin-left:40px ;
+            
+          }
+
+          .content .menu li {
+            display: inline;
+            margin-left:130px;
+            height: auto;
+            position: relative;
+            right:250px;
+            font-size:20px;
+            padding:20px;
+            
+            }
+
+            .content .Addmeal .CreateMeal .newMeals h3{
+              width: 180px;
+              height: 30px;
+             border: 1px solid rgb(253, 253, 253);
+             font-size:20px;
+             padding-top: 15px;
+             margin: 10px;
+             margin-left: 2mm;
+            
+             
+              }
+ 
+         }

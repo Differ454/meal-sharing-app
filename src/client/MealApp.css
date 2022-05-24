@@ -1,0 +1,381 @@
+.content{
+  width: 93vw;
+  height: auto;
+  padding: 20px 10px 10px 20px;
+  margin: 20px 10px 20px 10px;
+  background-color:rgb(255, 255, 255);
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  background-image: url("https://image.freepik.com/vector-gratis/fondo-comida-smarthphone-supermercado_125540-324.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  
+}
+
+body{
+  background-image: url("https://image.freepik.com/vector-gratis/fondo-comida-smarthphone-supermercado_125540-324.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.content header p{
+  width: 100px;
+  height: 60px;
+  position:relative;
+  bottom:20mm;
+  left:150mm;
+  border: 2mm ridge rgba(23, 131, 107, 0.6);
+  box-shadow: 0 0 0 0.5rem rgb(21, 24, 26);
+  border-radius: 20%;
+  box-shadow: 0 0 20px rgb(17, 0, 17);
+  text-align: justify;
+  padding-left:20px ;
+}
+
+
+.content header h1{
+  width: 800px;
+  height: 60px;
+  position:relative;
+  bottom:10mm;
+  left:50mm;
+  border: 0.5mm ridge rgba(87, 245, 208, 0.6);
+  box-shadow: 0 0 0 0.5rem rgb(21, 24, 26);
+  border-radius: 10%;
+  box-shadow: 0 0 20px rgb(17, 0, 17);
+  text-align: justify;
+  padding-left:170px ;
+  font-size:30px;
+  font-family: Gabriola;
+}
+
+
+#header{
+  text-align: center;
+  font-size: 30px;
+  font-family: Gabriola;
+  padding-top: 20px;
+  margin-left: 0px;
+  margin-right:10px;
+  margin-top: 10px;
+  width: auto;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+  
+
+  
+}
+
+.content #header li  {
+    
+    display: inline;
+    padding: 5px;
+    padding-right:100px;
+    position: relative;
+    top:40px;
+    font-size: 40px;
+    font-family:  Gabriola;
+    background-color: rgb(255, 255, 255); 
+    text-decoration: none;
+    background-image: url("https://image.freepik.com/vector-gratis/fondo-comida-smarthphone-supermercado_125540-324.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+.content #header li a {
+  
+    text-decoration: none;
+    background-image: url("https://image.freepik.com/vector-gratis/fondo-comida-smarthphone-supermercado_125540-324.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+      
+      } 
+ 
+        
+.img h1  {
+        
+  font-size: 30px;
+ position: relative;
+ left:60mm;
+ font-family: Gabriola;
+
+      }          
+                     
+body{
+  width: 92vw;
+  height: 260mm;
+  margin-left: 0px;
+  text-align: center;
+  font-size: 30px;
+  font-family:  FrankRuehl;
+  padding-top: 30px;
+  background-color: rgb(255, 255, 255);
+}
+
+body .right{
+  margin-top:50px;
+  height: auto;
+  position: relative;
+  bottom:261mm;
+  right: 510px;
+  width: 42vw;
+  margin-left:550px ;
+  background-color: rgb(255, 255, 255);
+  padding-bottom: 2px ;
+}
+body .left{
+  height: auto;
+  position: relative;
+  bottom:20px;
+  left: 110px;
+  width: 42vw;
+  margin-left:550px ;
+  background-color: rgb(255, 255, 255);
+  padding-bottom: 20px ;
+  text-align: justify;
+}
+
+.left p{
+  width: 400px;
+  height: 200px;
+  border: 4mm ridge rgba(19, 92, 80, 0.6);
+  box-shadow: 0 0 20px rgb(17, 0, 17);
+  text-align: justify;
+  border-radius: 20%;
+  padding-left:30px;
+  padding-right:30px;
+  font-family: Gabriola;
+  font-size: 23px;
+  font-weight: 500;
+}
+
+.left h1{
+  padding-top: 60px;
+  margin-bottom: 5px;
+  text-align: center;
+  position: relative;
+  right:20mm;
+  width: 42vw;
+  font-size: 40px;
+}
+
+
+.right h1{
+  padding-top: 60px;
+  margin-bottom: 7px;
+  text-align: center;
+  position: relative;
+  right: 60px;
+  width: 42vw;
+  font-size: 40px;
+}
+
+.right p{
+  width: 400px;
+  height: 200px;
+  border: 4mm ridge rgba(19, 92, 80, 0.6);
+  box-shadow: 0 0 20px rgb(17, 0, 17);
+  text-align: justify;
+  border-radius: 20%;
+  padding-left:30px;
+  padding-right:30px;
+  font-family: Gabriola;
+  font-size: 23px;
+  font-weight: 500;
+}
+
+footer{
+  width: auto;
+  height: auto;
+  margin-left: 0px;
+  margin-top: 10px;
+  margin-right:120mm;
+  text-align: center;
+  font-size: 30px;
+  font-family:  Gabriola;
+  padding-top: 20px;
+  padding-bottom:20px ;
+  margin-bottom: 10px;
+  background-image: url("https://image.freepik.com/vector-gratis/fondo-comida-smarthphone-supermercado_125540-324.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  
+  
+}
+
+footer .img {
+  display: inline;
+}
+
+@media (min-width: 752px) and (max-width: 1199px) 
+{
+   
+body .right{
+  margin-top:10px;
+  height: auto;
+  position: relative;
+  bottom:260mm;
+  right: 510px;
+  width: 42vw;
+  margin-left:550px ;
+  background-color: rgb(255, 255, 255);
+  padding-bottom: 20px ;
+}
+ 
+
+ }
+
+ @media (min-width: 375px) and (max-width: 751px) 
+        {
+
+          .content #header li  {
+    
+            display: inline;
+            padding: 20px;
+            padding-right:25px;
+            margin-right:5px;
+            position: relative;
+            right:40px;
+            font-size: 30px;
+            font-family:  Gabriola;
+            background-color: rgb(255, 255, 255); 
+            text-decoration: none;
+          }
+          #header{
+            text-align: center;
+            font-size: 30px;
+            font-family: Gabriola;
+            padding-top: 20px;
+            margin-left: 50px;
+            margin-right:10px;
+            margin-top: 10px;
+            width: auto;
+            height: auto;
+            background-color: rgb(255, 255, 255);
+            
+          
+            
+          }
+          .content header img{
+            
+            position: relative;
+            left:5px;
+            
+          }
+
+
+          body .right{
+            margin-top:10px;
+            height: auto;
+            position: relative;
+            bottom:140mm;
+            right: 510px;
+            width: 42vw;
+            margin-left:550px ;
+            background-color: rgb(255, 254, 254);
+            padding-bottom: 2px ;
+          }
+
+          body .left{
+            height: auto;
+            position: relative;
+            top:17mm;
+            left: 100px;
+            width: 42vw;
+            margin-left:150px ;
+            background-color: rgb(255, 255, 255);
+            padding-bottom: 30px ;
+            text-align: justify;
+          }
+
+          .right img{
+            width: 150px;
+            height: 100px;
+            border: 3mm ridge rgba(61, 64, 253, 0.6);
+            border-radius: 50%;
+            position: relative;
+            bottom:20px;
+          }
+
+            
+           .right h1{
+            padding-top: 60px;
+            margin-bottom: 7px;
+            text-align: center;
+            left: 110px;
+            width: 42vw;
+            font-size: 20px;
+            }
+
+            .left h1{
+              padding-top: 60px;
+              margin-bottom: 5px;
+              text-align: center;
+              left: 110px;
+              width: 42vw;
+              font-size: 20px;
+            }
+            
+          .left img{
+            width: 90px;
+            height: 100px;
+            padding-left: 70px ;
+            padding-right: 25px ;
+            border: 3mm ridge rgba(61, 64, 253, 0.6);
+            border-radius: 50%;
+            }
+           footer{
+             width: auto;
+             height: auto;
+             margin-left: 0px;
+             margin-top: 10px;
+             margin-right:9px;
+             text-align: center;
+             font-size: 30px;
+             font-family:  Gabriola;
+             padding-top: 20px;
+             padding-bottom:20px ;
+             margin-bottom: 10px;
+             
+            
+             
+  
+            }
+
+          footer .img {
+            right:560px;
+            position: relative;
+            display: flex;
+            bottom:150px;
+            padding-left:10px;
+           
+            
+          }
+
+          footer .img img{
+            font-size:20px;
+            display: flex;
+            bottom:100px;
+            position: relative;
+            left:80px;
+            margin-top:30px;
+            padding-left:10px;
+          }  
+          
+          footer .img #button{
+            font-size:20px;
+            display: flex;
+            bottom:250px;
+            left:730px;
+            margin-top:30px;
+          } 
+
+           
+         
+ 
+         }
